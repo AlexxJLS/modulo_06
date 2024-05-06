@@ -1,0 +1,33 @@
+Nome: Alexandre José Leandro Santos
+Nº: 30
+Turma: 10ºT
+
+Tema do trabalho:
+Programa de registro de funcionários para um armazém
+    
+Registro de Funcionários
+    Nome
+    Idade
+    data
+    contacto
+    carta de conducao
+    Definir Função de Cada Funcionários
+        reposição de stock
+        encomendas para stock
+        transportador
+        vendedor
+    demitir
+
+Informações dos Funcionários
+    listar
+        todos
+        apenas um (pesquisar pelo nome)
+    listar demitidos
+    editar
+
+Estatísticas
+    total de funcionários
+    media de idades
+    percentagem de funcionários em cada função
+    percentagem de funcionários com carta de condução
+
